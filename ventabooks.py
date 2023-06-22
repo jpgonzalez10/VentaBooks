@@ -17,6 +17,7 @@ while True:
         break
     elif opcion==1:
         fu.printv("Guardar")
+        
     elif opcion==2:
         fu.printv("Buscar")
     elif opcion==3:
